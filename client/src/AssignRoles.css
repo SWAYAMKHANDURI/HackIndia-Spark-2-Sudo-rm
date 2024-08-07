@@ -1,0 +1,41 @@
+.assign-roles {
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.loading {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 50px;
+}
+
+.role-section {
+    margin-bottom: 40px;
+}
+
+.role-section h4 {
+    margin-bottom: 10px;
+}
+
+.form-control-sm {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.btn-outline-success {
+    margin-top: 10px;
+}

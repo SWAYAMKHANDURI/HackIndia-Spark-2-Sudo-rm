@@ -102,6 +102,6 @@ module.exports = {
   // $ truffle migrate --reset --compile-all
 
   db: {
-    enabled: false
+    enabled: true
   }
 };
